@@ -1,0 +1,17 @@
+{
+  "name": "0313project-11",
+  "version": "1.0.0",
+  "description": "This is cli student manangement system",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.5"
+  }
+}
